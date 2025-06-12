@@ -1,0 +1,534 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "workers-compensation;workers-compensation-policy",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Workers Compensation policy",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 964833200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "user navigates to the URL",
+            "match": {
+              "location": "step_definitions\\airbnHome.steps.ts:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5920383300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "user enters username",
+            "match": {
+              "location": "step_definitions\\airbnHome.steps.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2093053500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "user enters password",
+            "match": {
+              "location": "step_definitions\\airbnHome.steps.ts:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2090524399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "user clicks on login",
+            "match": {
+              "location": "step_definitions\\airbnHome.steps.ts:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2181528500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "user clicks on account and select the account",
+            "match": {
+              "location": "step_definitions\\airbnHome.steps.ts:50"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2137113599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "user can click on New Submission",
+            "match": {
+              "location": "step_definitions\\airbnHome.steps.ts:57"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2492456999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "user selects General Liability",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:21"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1217302100
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "user selects offering selection",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1321318700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "user selects next on Offering Selection",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:36"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1210855000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 14,
+            "name": "user answers GL PreQualification",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5803874600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "user next on GLpage",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:57"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1176145099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 16,
+            "name": "user enters value for Estimated premium",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:64"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 86100999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "user enters value for Date quote",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:69"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1119884599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 18,
+            "name": "user enters value in policy info",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:75"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2689275899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "user click next on Location page",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:87"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2167879899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 20,
+            "name": "user clicks on Additional Coverages",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:94"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2650731899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "user add select Category",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:101"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2951437699
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "user click on next on GL page",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:115"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2206633999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 23,
+            "name": "user clicks on Add Exposure",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:128"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 150684200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "user add location",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:133"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2196207200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "user add class code",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:141"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 408243000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "user add basic amount",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:148"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 85213500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 27,
+            "name": "user click on next Exposure page",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:153"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2399434000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "user add GL Experience Modifier",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:160"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2116726900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "user add Location - Inside Premises",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:167"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2113181700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 30,
+            "name": "user add justification for location",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:174"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2157938500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "user add Safety Organization",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:181"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2133393900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 32,
+            "name": "user add justification for safety org",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:188"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2126048900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 33,
+            "name": "user clicks on next on Modifier page",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:195"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2185060300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 34,
+            "name": "user Risk Analysis add contingency",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:202"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1168594399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 35,
+            "name": "user add title",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:209"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1079016699
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 36,
+            "name": "user add description",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:216"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1087552000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 37,
+            "name": "user add Action",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:224"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2231689300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "user add duedate",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:233"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1089489099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 39,
+            "name": "user click on Ok on Add contingency",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:240"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1112034199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 40,
+            "name": "user add click on next on Risk Analysis",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:247"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3631210899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "user click on Close Options for general",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:255"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1152759999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 42,
+            "name": "user clicks on withdraw for general",
+            "match": {
+              "location": "step_definitions\\General Liability.steps.ts:263"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1143141799
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 4403438999
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "workers-compensation",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Workers Compensation",
+    "tags": [],
+    "uri": "features\\GeneralLiability.feature"
+  }
+]
