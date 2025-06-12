@@ -9,7 +9,8 @@
     "test:webkit": "cucumber-js --profile webkit",
     "report:generate": "node ./utils/report-generator.js",
     "allure:generate": "allure generate ./reports/allure-results -o ./reports/allure-report",
-    "allure:open": "allure open ./reports/allure-report"
+    "allure:open": "allure open ./reports/allure-report",
+    "build": "tsc"
   },
   "dependencies": {
     "@cucumber/cucumber": "^9.6.0",
